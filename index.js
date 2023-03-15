@@ -9,7 +9,7 @@ const colors = require('colors');
 mongoose.set('strictQuery', false)
 
 // const db = `mongodb+srv://watch-me-project:watch-me-project@cluster0.garvawt.mongodb.net/?retryWrites=true&w=majority`;
-const db = `mongodb+srv://Market_Place:Market_Place@cluster0.s4ariea.mongodb.net/?retryWrites=true&w=majority`;
+// const db = `mongodb+srv://Market_Place:Market_Place@cluster0.s4ariea.mongodb.net/?retryWrites=true&w=majority`;
 /* 
 const options = {
     useNewUrlParser: true,
@@ -24,8 +24,8 @@ const options = {
 // mongoose.connect(db).then(() => {
 //     console.log(`Watch-ME Database Connection is Successful`.green.bold);
 // });
-mongoose.connect(db).then(() => {
-    console.log(`Watch-ME Database Connection is Successful`.green.bold);
+mongoose.connect(process.env.DB).then(() => {
+    console.log(`MARKET-PLACE Database Connection is Successful`.green.bold);
 });
 
 
