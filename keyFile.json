@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "grocery-market-place",
+  "private_key_id": "9e1e68670084ebd84ab09e806c84801c358fd22c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD710VWDtCGiW2t\n+1nz8PpqXScWzHCkWpGQlpVmYOiV/K0maY0h9SQM1Ojz09NL+iZuS/0It9D4ykNG\nd0Og4llAjhLyALgX5tBxksvvk6tpwVP7jDCaQW2krVUOqEUOM0t4KmAW1DIpKfzd\nGHA3UnMUeF9QS6GWYyhX1Y05sLqhYcBPtLy5/q4hWVb/u4tLJ3krdiMT6VzqpNGF\nGQfFgbZ0R75NL5GNlRrvoG8UvOZMTNNOITs8OlMsb5G5Ti3Bui5/7z6XHmoesGGK\n8zGfS/yWLyvDhBArKuI+HrgDJusQGMCh8AJtmFpgRfhhnbPhjlI+0Um4Z2+8pPGG\nnX/+bZyzAgMBAAECggEAdlLIzWutdqCIKye+tjng9etpa7FHNTkmTkgpzo22iY3L\nrpIGEM/UDcFU6AZ8rqRLvSOvsZJnuRSS8j8jw6nFZGq8JP7If9Ze1hWyApCfh1Mh\nibzusvMNuEMGBRpzQ34/Nai3N9Kf9K45E4ohYyS2VAZQRfIa7AUPleEMdu/9Z8eO\nkhMDEUFBXHncJP9j0fHiXHP0YWE6Iy+bwrg1p2rdbdY9uchHenAFTWC7qG/qJ2iP\nYkUFk4lIXrB6wJ4TBB7RG8s+yND5ZTKkLXb+1hP0ft/e3B2rKl2UKtvojl5p+7Ww\ncBaH6oJ7Kln/1EIGKvLKwjs7DPNSwwVovqsvtiBSaQKBgQD+ociVnRe5OAjtBzQt\nLXFpeKDl2IFOoS9d+2/+Mh8w3ZPHTeBUXBONNoVIOy6HKSfS4Q6yiwO5FBCsZxIh\nqgsE86I0CjV/cAHpuBaaWP3DJV0I5gsrAKxHV5JIPbnqIhQSybNQ7JkoHLvL4t52\nudxW3+VYpJE1FwGnmfuBcTSjSwKBgQD9MaYF7fihmWTk+jU6HR1ygviM0Ju6IR8Y\nLDLr9MMgnztR8qsHA3WGgvPgTvUQsCGbbNDBR+fIMTsSQet4nhKlQDmdbLuJiUOe\nJ4ej6lm55bZftPugRZq7I3kKcTWlbd+Y9ShUB4nq9/oLlhK4X2dGYAxcF/QLoOsR\nyaXrZuYjOQKBgQD3KhVpXP6NNJ49blOwUr8WsRgFY75Ik99Fq+6O4RoztbFfsfFC\nEcqMtVJ0xbWpT0KvyPQaTSRE//wbTUVlVgiyOsfFGe/KDvBcbOvL0Pwp89e17o8C\no/mWmqOM6hXP9lpjzlP4BmG4dQO5qjNlLY566YRXIg8taHKbvLVMdZWxtwKBgBV4\nAUDddciWDiUQRjUgRN/x1QtzoNC+gDl3ffXd8jGw7sG7Ft9oXq3CKtWpPERm+uKH\n7oeFBlVGP2ED7+hxVtlmQbxkfN5jojUl2u1+MI9/t+ATo4ZqgH0/u8Kz6L2XPG9m\n0j2Vyg7/addTqVCy3jnsaP/iFBJsWaJPe98jAX6ZAoGANJ/MkScYdF049MGMbJeQ\n5nio0z6fnVkvoi8pWiILrV4xQJ9d2l7IRxxKF+o+jpAT7FvT4Yt8oo7Qz0K+fo/R\ngED9N3sX3tgLCWyJ93KxjwDAjKiYj3nGeOti7sNU+bG8hxqigY8eqVGLwMgE4+To\n1KgTjY3GiYvdr+oFzJh1ov4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uu9do@grocery-market-place.iam.gserviceaccount.com",
+  "client_id": "111542103137693251058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uu9do%40grocery-market-place.iam.gserviceaccount.com"
+}
